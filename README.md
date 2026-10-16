@@ -1,5 +1,5 @@
 # odin-recipes
-This is my first project in HTML where I'm building a barebone website using only HTML.
+This is my first project in HTML from Odin Project where I'm building a barebone website using only HTML.
 
 Website displays different recipes that I enjoy.
 
